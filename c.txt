@@ -1,2 +1,2 @@
 i am c file
-Change c file on branch dev
+Change c file on branch master
