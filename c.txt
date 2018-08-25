@@ -1,2 +1,3 @@
 i am c file
 Accept Change c file on branch master
+new change on dev branch
